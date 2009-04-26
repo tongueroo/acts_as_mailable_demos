@@ -1,0 +1,3 @@
+acts_as_mailable:
+  repo: git@github.com:tongueroo/acts_as_mailable.git
+  path: vendor/plugins
